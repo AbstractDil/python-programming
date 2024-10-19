@@ -1,6 +1,0 @@
-# Python Programming 
--- All python programming are here. 
--- new journey started ...
--- Date : Oct 19, 2024 ; Time : 9:09 P.M.
--- @author - Sagar Nandy 
--- Realization: Jab Baat Karne Ki Maan Na Ho to Kyun Ate Ho phirse Mereko Rulane Yaar, Chale Jao Yaar. Agar Mein tumko Paresan Karta Hu To Tum Mujhe Dur Ho K Khus Raho ....
